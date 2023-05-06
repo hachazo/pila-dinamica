@@ -4,7 +4,7 @@ generic
    
    package piladinamica is
       
-      type Tiponodo is private;
+   type Tiponodo is private;
       type Tipopila is access Tiponodo;
       
       Pilavacia, Underflow: exception;
