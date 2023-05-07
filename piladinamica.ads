@@ -27,3 +27,5 @@ generic
       end record;
          
    end Piladinamica;
+   
+   --package piladinamicainc is new piladinamica(Tiporegistro);
