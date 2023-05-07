@@ -29,3 +29,4 @@ generic
    end Piladinamica;
    
    --package piladinamicainc is new piladinamica(Tiporegistro);
+   --use Piladinamicainc;
